@@ -72,6 +72,7 @@ The project demonstrates how healthcare data can be transformed into actionable 
 ---
 
 ## 📁 Repository Structure
+├── data/
 ├── Python_EDA/
 ├── SQL_Analysis/
 ├── PowerBI_Dashboard/
